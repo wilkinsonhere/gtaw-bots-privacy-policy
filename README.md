@@ -2,7 +2,7 @@
 
 **Effective Date:** August 11, 2026
 
-This Privacy Policy explains how GTAW Events Manager ("the Bot") collects, uses, and stores user data. By adding the Bot to your server, you agree to this policy.
+This Privacy Policy explains how GTAW Events Manager or Надзиратель ("the Bot") collects, uses, and stores user data. By adding the Bot to your server, you agree to this policy.
 
 ### 1. Data We Collect
 * **User Identifiers:** We store Discord User IDs, Username, and Server IDs to manage events and track participation.
